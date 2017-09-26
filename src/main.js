@@ -7,6 +7,7 @@ import MovieFilter from './components/MovieFilter.vue';
 new Vue({
   el: '#app',
   data: {
+    title: 'Vue.js Cinema',
     genre: [],
     time: []
   },
